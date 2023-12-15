@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aaron_EV
 Tomb Raider
+=======
+Héctor_Gil
+Koe no Katachi
+>>>>>>> desarrollo_Hector_Gil
